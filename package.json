@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/jsreport/jsreport-mssql-store#readme",
   "dependencies": {
-    "jsreport-sql-store": "0.1.1",
+    "jsreport-sql-store": "^0.1.1",
     "mssql": "3.0.0"
   },
   "devDependencies": {
