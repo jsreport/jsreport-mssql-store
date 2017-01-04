@@ -25,7 +25,7 @@ Then alter jsreport configuration
 ```
 
 Alternatively you can pass the connection string as uri
-```
+```js
 "connectionString": {
   "name": "mssql",
   "uri": "Server=tcp:jsreport.database.windows.net,1433;Initial Catalog=jsreport;Persist Security Info=False;User ID=myuser;Password=password;MultipleActiveResultSets=False;Encrypt=True;"
