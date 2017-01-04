@@ -15,8 +15,20 @@ Then alter jsreport configuration
         "user": "jsreport",
         "password": "password",
         "server": "janblaha-PC\\SQLEXPRESS",
-        "database": "jsreport"      
+        "database": "jsreport",
+        /* required for sql azure */
+        "options": {
+          "encrypt": true
+        }
     }
+}
+```
+
+Alternatively you can pass the connection string as uri
+```
+"connectionString": {
+  "name": "mssql",
+  "uri": "Server=tcp:jsreport.database.windows.net,1433;Initial Catalog=jsreport;Persist Security Info=False;User ID=myuser;Password=password;MultipleActiveResultSets=False;Encrypt=True;"
 }
 ```
 
