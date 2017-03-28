@@ -1,11 +1,9 @@
-#jsreport-mssql-store
-[![NPM Version](http://img.shields.io/npm/v/jsreport-mssql-store.svg?style=flat-square)](https://npmjs.com/package/jsreport-mssql-store)
-[![Build Status](https://travis-ci.org/jsreport/jsreport-mssql-store.png?branch=master)](https://travis-ci.org/jsreport/jsreport-mssql-store)
+# jsreport-mssql-store
 
 **[jsreport](https://github.com/jsreport/jsreport) template store extension allowing to persist data in [Microsoft SQL Server](https://www.microsoft.com/en/server-cloud/products/sql-server/)**
 
 
-##Installation
+## Installation
 
 > npm install jsreport-mssql-store
 
@@ -38,10 +36,10 @@ Alternatively you can pass the connection string as uri
 
 After jsreport initializes you should see tables like `jsreport.TemplateType` and others in `jsreport` database.
 
-##Schema changes
+## Schema changes
 If you do changes to the database schema by enabling additional extensions you need to drop the affected tables and let jsreport to reinitialize them. 
 
-##jsreport-core
+## jsreport-core
 You can apply this extension also manually to [jsreport-core](https://github.com/jsreport/jsreport-core)
 
 ```js
