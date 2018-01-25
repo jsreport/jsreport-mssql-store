@@ -34,7 +34,7 @@ Alternatively you can pass the connection string as uri
 }
 ```
 
-**Make sure your TCP/IP protocol is enabled in the SQL Server Configuration Manager**
+**Make sure your TCP/IP protocol is enabled in the SQL Server Configuration Manager and the SQL Browser service is running.**
 
 After jsreport initializes you should see tables like `jsreport.TemplateType` and others in `jsreport` database.
 
