@@ -1,6 +1,6 @@
 {
   "name": "jsreport-mssql-store",
-  "version": "0.2.3",
+  "version": "1.0.0",
   "description": "Extension allowing to store template in Microsoft SQL Server",
   "main": "index.js",
   "scripts": {
