@@ -3,8 +3,5 @@
   "env": {
     "node": true,
     "mocha": true
-  },
-  "globals": {
-    "define": true
   }
 }
