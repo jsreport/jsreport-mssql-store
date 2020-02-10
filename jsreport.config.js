@@ -13,6 +13,7 @@ module.exports = {
       'mssql-store': {
         type: 'object',
         properties: {
+          schemaCreation: { type: 'boolean', default: true },
           uri: { type: 'string' },
           user: { type: 'string' },
           password: { type: 'string' },
