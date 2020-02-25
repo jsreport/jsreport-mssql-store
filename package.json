@@ -23,13 +23,13 @@
   },
   "homepage": "https://github.com/jsreport/jsreport-mssql-store#readme",
   "dependencies": {
-    "jsreport-sql-store": "github:jsreport/jsreport-sql-store",
+    "jsreport-sql-store": "1.2.0",
     "mssql": "6.0.1"
   },
   "devDependencies": {
     "eslint": "4.19.1",
     "eslint-config-standard": "11.0.0",
-    "jsreport-core": "github:jsreport/jsreport-core",
+    "jsreport-core": "2.7.0",
     "mocha": "5.0.5",
     "should": "13.2.3",
     "standard": "11.0.1"
