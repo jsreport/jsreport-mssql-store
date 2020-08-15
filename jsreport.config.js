@@ -14,6 +14,7 @@ module.exports = {
         type: 'object',
         properties: {
           schemaCreation: { type: 'boolean', default: true },
+          schema: { type: 'boolean', default: true },
           uri: { type: 'string' },
           user: { type: 'string' },
           password: { type: 'string' },
