@@ -21,6 +21,7 @@ Then alter jsreport configuration
 			"password": "password",
 			"server": "janblaha-PC\\SQLEXPRESS",
 			"database": "jsreport",
+			"schema": "mycustomschema",
 			/* required for sql azure */
 			"options": {
 				"encrypt": true
