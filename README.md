@@ -1,6 +1,6 @@
 # jsreport-mssql-store
 [![NPM Version](http://img.shields.io/npm/v/jsreport-mssql-store.svg?style=flat-square)](https://npmjs.com/package/jsreport-mssql-store)
-[![Build Status](https://travis-ci.org/jsreport/jsreport-mssql-store.png?branch=master)](https://travis-ci.org/jsreport/jsreport-mssql-store)
+[![Build Status](https://travis-ci.com/jsreport/jsreport-mssql-store.png?branch=master)](https://travis-ci.org/jsreport/jsreport-mssql-store)
 
 **[jsreport](https://github.com/jsreport/jsreport) template store extension allowing to persist data in [Microsoft SQL Server](https://www.microsoft.com/en/server-cloud/products/sql-server/)**
 
