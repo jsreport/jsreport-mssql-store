@@ -1,3 +1,6 @@
+**⚠️ This repository has been moved to the monorepo [jsreport/jsreport](https://github.com/jsreport/jsreport)**
+--
+
 # jsreport-mssql-store
 [![NPM Version](http://img.shields.io/npm/v/jsreport-mssql-store.svg?style=flat-square)](https://npmjs.com/package/jsreport-mssql-store)
 [![Build Status](https://travis-ci.com/jsreport/jsreport-mssql-store.png?branch=master)](https://travis-ci.org/jsreport/jsreport-mssql-store)
